@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.every(${1:collection}${2:, [callback=identity]}${3:, [thisArg]});
+]]></content>
+  <tabTrigger>_.every</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Checks if the given callback returns truey value for all elements of a collection.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.wrap(${1:value}${2:, wrapper});
+]]></content>
+  <tabTrigger>_.wrap</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Creates a function that provides value to the wrapper function as its first argument.</description>
+</snippet>

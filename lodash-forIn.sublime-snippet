@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.forIn(${1:object}${2:, [callback=identity]}${3:, [thisArg]});
+]]></content>
+  <tabTrigger>_.forIn</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Iterates over own and inherited enumerable properties of an object, executing the callback for each property.</description>
+</snippet>

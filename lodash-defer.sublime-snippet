@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.defer(${1:func}${2:, [arg]});
+]]></content>
+  <tabTrigger>_.defer</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Defers executing the func function until the current call stack has cleared.</description>
+</snippet>

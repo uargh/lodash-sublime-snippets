@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.contains(${1:collection}${2:, target}${2:, [fromIndex=0]});
+]]></content>
+  <tabTrigger>_.contains</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Checks if a given value is present in a collection.</description>
+</snippet>

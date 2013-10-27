@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.isNumber(${1:value});
+]]></content>
+  <tabTrigger>_.isNumber</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Checks if value is number.</description>
+</snippet>

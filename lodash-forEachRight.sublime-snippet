@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.forEachRight(${1:collection}${2:, [callback=identity]}${3:, [thisArg]});
+]]></content>
+  <tabTrigger>_.forEachRight</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Iterates over elements of a collection from right to left, executing the callback for each element.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.createCallback(${1:[func=identity]}${2:, [thisArg]}${3:, [argCount]});
+]]></content>
+  <tabTrigger>_.createCallback</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Produces a callback bound to an optional thisArg.</description>
+</snippet>

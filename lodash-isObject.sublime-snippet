@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.isObject(${1:value});
+]]></content>
+  <tabTrigger>_.isObject</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Checks if value is the language type of Object.</description>
+</snippet>

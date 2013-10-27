@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.curry(${1:func}${2:, [arity=func.length]});
+]]></content>
+  <tabTrigger>_.curry</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Creates a function which accepts one or more arguments of func that when invoked executes func returning its result.</description>
+</snippet>

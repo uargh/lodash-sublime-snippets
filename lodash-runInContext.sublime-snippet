@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.runInContext(${1:[context=root]});
+]]></content>
+  <tabTrigger>_.runInContext</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Create a new lodash function using the given context object.</description>
+</snippet>

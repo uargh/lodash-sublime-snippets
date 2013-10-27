@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.forOwnRight(${1:object}${2:, [callback=identity]}${3:, [thisArg]});
+]]></content>
+  <tabTrigger>_.forOwnRight</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Iterates over own enumerable properties of an object, executing the callback for each property from right to left.</description>
+</snippet>

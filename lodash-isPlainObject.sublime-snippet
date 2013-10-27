@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.isPlainObject(${1:value});
+]]></content>
+  <tabTrigger>_.isPlainObject</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Checks if value is an object created by the Object constructor.</description>
+</snippet>

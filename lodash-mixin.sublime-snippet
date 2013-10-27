@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.mixin(${1:object}, ${2:object});
+]]></content>
+  <tabTrigger>_.mixin</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Adds function properties of a source object to the lodash function and chainable wrapper.</description>
+</snippet>

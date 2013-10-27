@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.tap(${1:value}${2:, interceptor});
+]]></content>
+  <tabTrigger>_.tap</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Invokes interceptor with the value as the first argument and then returns value.</description>
+</snippet>

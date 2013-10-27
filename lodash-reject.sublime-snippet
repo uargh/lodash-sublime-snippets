@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.reject(${1:collection}${2:, [callback=identity]}${3:, [accumulator]}${4:, [thisArg]});
+]]></content>
+  <tabTrigger>_.reject</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Returns the elements of a collection that the callback does not return truey for.</description>
+</snippet>

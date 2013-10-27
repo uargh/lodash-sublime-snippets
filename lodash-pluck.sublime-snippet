@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.pluck(${1:collection}${2:, property});
+]]></content>
+  <tabTrigger>_.pluck</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Retrieves the value of a specified property from all elements in the collection.</description>
+</snippet>

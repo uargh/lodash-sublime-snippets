@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.groupBy(${1:collection}${2:, [callback=identity]}${3:, [thisArg]});
+]]></content>
+  <tabTrigger>_.groupBy</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Creates an object composed of keys generated from the results of running each element of a collection through the callback.</description>
+</snippet>

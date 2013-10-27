@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.uniq(${1:array}${2:, [isSorted=false]}${3:, [callback=identity]}${4:, [thisArg]});
+]]></content>
+  <tabTrigger>_.uniq</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Creates a duplicate-value-free version of an array.</description>
+</snippet>

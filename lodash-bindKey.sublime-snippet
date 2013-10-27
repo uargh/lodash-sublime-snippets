@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.bindKey(${1:object}${2:, key}${3:, [arg]});
+]]></content>
+  <tabTrigger>_.bindKey</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Creates a function that, when called, invokes the method at object[key] and prepends any additional bindKey arguments to those provided to the bound function.</description>
+</snippet>

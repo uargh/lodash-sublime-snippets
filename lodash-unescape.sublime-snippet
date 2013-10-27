@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+_.unescape(${1:string});
+]]></content>
+  <tabTrigger>_.unescape</tabTrigger>
+  <!-- <scope>source.JavaScript</scope> -->
+  <description>Converts &amp;, &lt;, &gt;, &quot;, and &#39; to characters.</description>
+</snippet>
