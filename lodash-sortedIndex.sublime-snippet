@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.sortedIndex(${1:array}${2:, value}${3:, [callback=identity]}${4:, [thisArg]});
+_.sortedIndex(${1:array}, ${2:value}${3:, [callback=identity]}${4:, [thisArg]});
 ]]></content>
   <tabTrigger>_.sortedIndex</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

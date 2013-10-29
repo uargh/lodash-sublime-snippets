@@ -4,5 +4,5 @@ _.assign(${1:object}${2:, [source]}${3:, [callback]}${4:, [thisArg]});
 ]]></content>
   <tabTrigger>_.assign</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
-  <description>Assigns own enumerable properties of source object(s) to the destination object.</description>
+  <description>Assigns own properties of source to object.</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.tap(${1:value}${2:, interceptor});
+_.tap(${1:value}, ${2:interceptor});
 ]]></content>
   <tabTrigger>_.tap</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

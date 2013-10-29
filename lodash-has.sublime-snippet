@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-_.has(${1:object}${2:, property});
+_.has(${1:object}, ${2:property});
 ]]></content>
   <tabTrigger>_.has</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
-  <description>Checks if the specified object property exists and is a direct property, instead of an inherited property.</description>
+  <description>Checks if direct property of object.</description>
 </snippet>
