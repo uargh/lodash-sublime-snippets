@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.pluck(${1:collection}, ${2:property});
+_.pluck(${1:collection}, ${2:property})
 ]]></content>
   <tabTrigger>_.pluck</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.bind(${1:func}${2:, [thisArg]}${3:, [arg]});
+_.bind(${1:func}${2:, [thisArg]}${3:, [arg]})
 ]]></content>
   <tabTrigger>_.bind</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

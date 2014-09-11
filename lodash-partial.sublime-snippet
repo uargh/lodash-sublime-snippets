@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.partial(${1:func}${2:, [arg]});
+_.partial(${1:func}${2:, [arg]})
 ]]></content>
   <tabTrigger>_.partial</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

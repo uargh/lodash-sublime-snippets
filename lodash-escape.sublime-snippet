@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.escape(${1:string});
+_.escape(${1:string})
 ]]></content>
   <tabTrigger>_.escape</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

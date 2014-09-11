@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.forInRight(${1:object}${2:, [callback=identity]}${3:, [thisArg]});
+_.forInRight(${1:object}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
   <tabTrigger>_.forInRight</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

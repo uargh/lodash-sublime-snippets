@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.compose(${1:[func]});
+_.compose(${1:[func]})
 ]]></content>
   <tabTrigger>_.compose</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

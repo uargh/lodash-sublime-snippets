@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.compact(${1:array});
+_.compact(${1:array})
 ]]></content>
   <tabTrigger>_.compact</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

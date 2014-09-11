@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.bindKey(${1:object}, ${2:key}${3:, [arg]});
+_.bindKey(${1:object}, ${2:key}${3:, [arg]})
 ]]></content>
   <tabTrigger>_.bindKey</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

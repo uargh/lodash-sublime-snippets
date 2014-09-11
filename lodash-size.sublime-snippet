@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.size(${1:collection});
+_.size(${1:collection})
 ]]></content>
   <tabTrigger>_.size</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

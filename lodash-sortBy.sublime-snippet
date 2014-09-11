@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.sortBy(${1:collection}${2:, [callback=identity]}${3:, [thisArg]});
+_.sortBy(${1:collection}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
   <tabTrigger>_.sortBy</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

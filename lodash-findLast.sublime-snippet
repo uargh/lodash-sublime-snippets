@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.findLast(${1:collection}${2:, [callback=identity]}${3:, [thisArg]});
+_.findLast(${1:collection}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
   <tabTrigger>_.findLast</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

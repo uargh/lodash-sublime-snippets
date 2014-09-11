@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.bindAll(${1:object}${2:, [methodName]});
+_.bindAll(${1:object}${2:, [methodName]})
 ]]></content>
   <tabTrigger>_.bindAll</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

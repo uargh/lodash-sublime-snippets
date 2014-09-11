@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.isPlainObject(${1:value});
+_.isPlainObject(${1:value})
 ]]></content>
   <tabTrigger>_.isPlainObject</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.difference(${1:array}, ${2:array});
+_.difference(${1:array}, ${2:array})
 ]]></content>
   <tabTrigger>_.difference</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

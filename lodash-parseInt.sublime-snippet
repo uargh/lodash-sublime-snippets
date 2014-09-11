@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.parseInt(${1:value}${2:, [radix]]});
+_.parseInt(${1:value}${2:, [radix]]})
 ]]></content>
   <tabTrigger>_.parseInt</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.wrap(${1:value}, ${2:wrapper});
+_.wrap(${1:value}, ${2:wrapper})
 ]]></content>
   <tabTrigger>_.wrap</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

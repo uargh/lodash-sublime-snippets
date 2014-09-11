@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.result(${1:object}, ${2:property});
+_.result(${1:object}, ${2:property})
 ]]></content>
   <tabTrigger>_.result</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

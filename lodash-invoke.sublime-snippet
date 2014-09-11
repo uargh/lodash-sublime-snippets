@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.invoke(${1:collection}, ${2:methodName}${3:, [arg]});
+_.invoke(${1:collection}, ${2:methodName}${3:, [arg]})
 ]]></content>
   <tabTrigger>_.invoke</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

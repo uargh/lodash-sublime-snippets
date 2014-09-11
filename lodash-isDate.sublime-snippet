@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.isDate(${1:value});
+_.isDate(${1:value})
 ]]></content>
   <tabTrigger>_.isDate</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

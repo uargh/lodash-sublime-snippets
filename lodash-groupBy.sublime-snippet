@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.groupBy(${1:collection}${2:, [callback=identity]}${3:, [thisArg]});
+_.groupBy(${1:collection}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
   <tabTrigger>_.groupBy</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

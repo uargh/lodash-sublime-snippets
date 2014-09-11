@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.pull(${1:array}${2:, [value]});
+_.pull(${1:array}${2:, [value]})
 ]]></content>
   <tabTrigger>_.pull</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

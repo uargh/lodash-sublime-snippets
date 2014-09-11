@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.mixin(${1:object}, ${2:object});
+_.mixin(${1:object}, ${2:object})
 ]]></content>
   <tabTrigger>_.mixin</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

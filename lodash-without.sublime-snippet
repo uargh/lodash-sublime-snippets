@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.without(${1:array}${2:, [value]});
+_.without(${1:array}${2:, [value]})
 ]]></content>
   <tabTrigger>_.without</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

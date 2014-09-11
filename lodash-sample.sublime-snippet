@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.sample(${1:collection}${2:, [n]});
+_.sample(${1:collection}${2:, [n]})
 ]]></content>
   <tabTrigger>_.sample</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

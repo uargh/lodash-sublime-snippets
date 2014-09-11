@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.some(${1:collection}${2:, [callback=identity]}${3:, [thisArg]});
+_.some(${1:collection}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
   <tabTrigger>_.some</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

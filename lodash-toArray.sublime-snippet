@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.toArray(${1:collection});
+_.toArray(${1:collection})
 ]]></content>
   <tabTrigger>_.toArray</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

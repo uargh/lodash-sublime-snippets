@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.template(${1:text}, ${2:data}${3:, [options]}${4:, [options.escape]}${5:, [options.evaluate]}${6:, [options.imports]}${7:, [options.interpolate]}${8:, [sourceURL]}${9:, [variable]});
+_.template(${1:text}, ${2:data}${3:, [options]}${4:, [options.escape]}${5:, [options.evaluate]}${6:, [options.imports]}${7:, [options.interpolate]}${8:, [sourceURL]}${9:, [variable]})
 ]]></content>
   <tabTrigger>_.template</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
