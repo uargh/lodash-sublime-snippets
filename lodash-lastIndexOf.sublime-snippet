@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.lastIndexOf(${1:array}, ${2:value}${3:, [fromIndex=array.length-1]});
 ]]></content>
-  <tabTrigger>_.lastIndexOf</tabTrigger>
+  <tabTrigger>_lastIndexOf</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Gets the index at which the last occurrence of value is found.</description>
 </snippet>

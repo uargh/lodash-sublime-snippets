@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.bind(${1:func}${2:, [thisArg]}${3:, [arg]});
 ]]></content>
-  <tabTrigger>_.bind</tabTrigger>
+  <tabTrigger>_bind</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Creates a function that, when called, invokes func with the this binding of thisArg and prepends any additional bind arguments to those provided to the bound function.</description>
 </snippet>

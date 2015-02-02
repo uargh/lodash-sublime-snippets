@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.without(${1:array}${2:, [value]});
 ]]></content>
-  <tabTrigger>_.without</tabTrigger>
+  <tabTrigger>_without</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Creates an array excluding all provided values.</description>
 </snippet>

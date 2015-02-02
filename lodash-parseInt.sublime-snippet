@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.parseInt(${1:value}${2:, [radix]]});
 ]]></content>
-  <tabTrigger>_.parseInt</tabTrigger>
+  <tabTrigger>_parseInt</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Converts the given value into an integer of the specified radix.</description>
 </snippet>

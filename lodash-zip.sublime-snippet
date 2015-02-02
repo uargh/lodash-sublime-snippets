@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.zip(${1:[array]});
 ]]></content>
-  <tabTrigger>_.zip</tabTrigger>
+  <tabTrigger>_zip</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Creates an array of grouped elements, the nth of which contains the nth elements of the given arrays.</description>
 </snippet>

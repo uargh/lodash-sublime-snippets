@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.pick(${1:object}${2:, [callback]}${3:, [thisArg]});
 ]]></content>
-  <tabTrigger>_.pick</tabTrigger>
+  <tabTrigger>_pick</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Creates a shallow clone of object composed of the specified properties.</description>
 </snippet>

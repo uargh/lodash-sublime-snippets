@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.forOwn(${1:object}${2:, [callback=identity]}${3:, [thisArg]});
 ]]></content>
-  <tabTrigger>_.forOwn</tabTrigger>
+  <tabTrigger>_forOwn</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Iterates over own enumerable properties of an object, executing the callback for each property.</description>
 </snippet>

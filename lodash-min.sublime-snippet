@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.min(${1:collection}${2:, [callback=identity]}${3:, [thisArg]});
 ]]></content>
-  <tabTrigger>_.min</tabTrigger>
+  <tabTrigger>_min</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Retrieves the minimum value of a collection.</description>
 </snippet>

@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.functions(${1:object});
 ]]></content>
-  <tabTrigger>_.functions</tabTrigger>
+  <tabTrigger>_functions</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Creates a sorted array of property names of all enumerable properties, own and inherited, of object that have function values.</description>
 </snippet>

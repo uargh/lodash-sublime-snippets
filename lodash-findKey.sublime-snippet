@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.findKey(${1:object}${2:, [callback=identity]}${3:, [thisArg]});
 ]]></content>
-  <tabTrigger>_.findKey</tabTrigger>
+  <tabTrigger>_findKey</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Returns the key of the first element that passes the callback check.</description>
 </snippet>

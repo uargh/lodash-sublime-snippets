@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.map(${1:collection}${2:, [callback=identity]}${3:, [thisArg]});
 ]]></content>
-  <tabTrigger>_.map</tabTrigger>
+  <tabTrigger>_map</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Creates an array of values by running each element in the collection through the callback.</description>
 </snippet>

@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.find(${1:collection}${2:, [callback=identity]}${3:, [thisArg]});
 ]]></content>
-  <tabTrigger>_.find</tabTrigger>
+  <tabTrigger>_find</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Iterates over elements of a collection, returning the first element that the callback returns truey for. </description>
 </snippet>

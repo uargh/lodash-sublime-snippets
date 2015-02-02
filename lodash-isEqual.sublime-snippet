@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.isEqual(${1:a}, ${2:b}${3:, [callback]}${4:, [thisArg]});
 ]]></content>
-  <tabTrigger>_.isEqual</tabTrigger>
+  <tabTrigger>_isEqual</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Performs a deep comparison between two values to determine if they are equivalent to each other.</description>
 </snippet>

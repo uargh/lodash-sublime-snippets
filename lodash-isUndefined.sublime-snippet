@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.isUndefined(${1:value});
 ]]></content>
-  <tabTrigger>_.isUndefined</tabTrigger>
+  <tabTrigger>_isUndefined</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Checks if value is undefined.</description>
 </snippet>

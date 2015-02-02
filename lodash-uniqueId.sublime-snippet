@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.uniqueId(${1:[prefix]});
 ]]></content>
-  <tabTrigger>_.uniqueId</tabTrigger>
+  <tabTrigger>_uniqueId</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Generates a unique ID.</description>
 </snippet>

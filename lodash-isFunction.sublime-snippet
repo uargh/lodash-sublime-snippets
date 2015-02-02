@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.isFunction(${1:value});
 ]]></content>
-  <tabTrigger>_.isFunction</tabTrigger>
+  <tabTrigger>_isFunction</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Checks if value is a function.</description>
 </snippet>

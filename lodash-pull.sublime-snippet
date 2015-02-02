@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.pull(${1:array}${2:, [value]});
 ]]></content>
-  <tabTrigger>_.pull</tabTrigger>
+  <tabTrigger>_pull</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Removes all provided values from the given array.</description>
 </snippet>

@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.zipObject(${1:keys}${2:, [values=[]]});
 ]]></content>
-  <tabTrigger>_.zipObject</tabTrigger>
+  <tabTrigger>_zipObject</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Creates an object composed from arrays of keys and values.</description>
 </snippet>

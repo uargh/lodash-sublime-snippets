@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.isFinite(${1:value});
 ]]></content>
-  <tabTrigger>_.isFinite</tabTrigger>
+  <tabTrigger>_isFinite</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Checks if value is, or can be coerced to, a finite number.</description>
 </snippet>

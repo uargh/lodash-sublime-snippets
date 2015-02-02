@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.cloneDeep(${1:value}${2:, [callback]}${3:, [thisArg]});
 ]]></content>
-  <tabTrigger>_.cloneDeep</tabTrigger>
+  <tabTrigger>_cloneDeep</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Creates a deep clone of value.</description>
 </snippet>

@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.merge(${1:object}${2:, [source]}${3:, [callback]}${4:, [thisArg]});
 ]]></content>
-  <tabTrigger>_.merge</tabTrigger>
+  <tabTrigger>_merge</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Recursively merges own enumerable properties of the source object(s), that don't resolve to undefined into the destination object.</description>
 </snippet>

@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.has(${1:object}, ${2:property});
 ]]></content>
-  <tabTrigger>_.has</tabTrigger>
+  <tabTrigger>_has</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Checks if direct property of object.</description>
 </snippet>

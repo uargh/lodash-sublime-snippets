@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.delay(${1:func}${2:, wait}${3:, [arg]});
 ]]></content>
-  <tabTrigger>_.delay</tabTrigger>
+  <tabTrigger>_delay</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Executes the func function after wait milliseconds.</description>
 </snippet>

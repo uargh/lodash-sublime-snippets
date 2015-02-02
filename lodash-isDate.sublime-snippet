@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.isDate(${1:value});
 ]]></content>
-  <tabTrigger>_.isDate</tabTrigger>
+  <tabTrigger>_isDate</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Checks if value is a date.</description>
 </snippet>

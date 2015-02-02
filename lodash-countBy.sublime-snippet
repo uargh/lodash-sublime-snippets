@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.countBy(${1:collection}${2:, [callback=identity]}${3:, [thisArg]});
 ]]></content>
-  <tabTrigger>_.countBy</tabTrigger>
+  <tabTrigger>_countBy</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Creates an object composed of keys generated from the results of running each element of collection through the callback.</description>
 </snippet>

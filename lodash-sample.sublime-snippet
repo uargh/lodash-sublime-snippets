@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.sample(${1:collection}${2:, [n]});
 ]]></content>
-  <tabTrigger>_.sample</tabTrigger>
+  <tabTrigger>_sample</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Retrieves a random element or n random elements from a collection.</description>
 </snippet>

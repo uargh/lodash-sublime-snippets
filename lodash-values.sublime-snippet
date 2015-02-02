@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.values(${1:object});
 ]]></content>
-  <tabTrigger>_.values</tabTrigger>
+  <tabTrigger>_values</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Creates an array composed of the own enumerable property values of object.</description>
 </snippet>

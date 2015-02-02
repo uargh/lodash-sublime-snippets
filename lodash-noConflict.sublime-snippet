@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.noConflict();
 ]]></content>
-  <tabTrigger>_.noConflict</tabTrigger>
+  <tabTrigger>_noConflict</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Reverts the '_' variable to its previous value and returns a reference to the lodash function.</description>
 </snippet>

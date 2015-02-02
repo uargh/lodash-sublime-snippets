@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.escape(${1:string});
 ]]></content>
-  <tabTrigger>_.escape</tabTrigger>
+  <tabTrigger>_escape</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Converts  &amp;, &lt;, &gt;, &quote;, and ' to their corresponding HTML entities.</description>
 </snippet>
