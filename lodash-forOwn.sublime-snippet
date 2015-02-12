@@ -1,6 +1,8 @@
 <snippet>
   <content><![CDATA[
-_.forOwn(${1:object}${2:, [callback=identity]}${3:, [thisArg]});
+_.forOwn(${1:object}, ${2:function(item${3:,key})\{
+
+\} }${4:,${5:[thisArg]}});
 ]]></content>
   <tabTrigger>_.forOwn</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

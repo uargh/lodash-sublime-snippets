@@ -1,6 +1,8 @@
 <snippet>
   <content><![CDATA[
-_.forEachRight(${1:collection}${2:, [callback=identity]}${3:, [thisArg]});
+_.forEachRight(${1:collection}, ${2: function(item${3:,key})\{
+
+\} }${4:,${5:[thisArg]}});
 ]]></content>
   <tabTrigger>_.forEachRight</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
