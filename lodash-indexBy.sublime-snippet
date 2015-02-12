@@ -1,6 +1,8 @@
 <snippet>
   <content><![CDATA[
-_.indexBy(${1:collection}${2:, [callback=identity]}${3:, [thisArg]});
+_.indexBy(${1:collection}, ${2:function(item${3:,key})\{
+
+\} }${4:,${5:[thisArg]}});
 ]]></content>
   <tabTrigger>_.indexBy</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

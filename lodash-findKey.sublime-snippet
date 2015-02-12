@@ -1,6 +1,8 @@
 <snippet>
   <content><![CDATA[
-_.findKey(${1:object}${2:, [callback=identity]}${3:, [thisArg]});
+_.findKey(${1:object}, ${2:function(item${3:,key})\{
+
+\} }${4:,${5:[thisArg]}});
 ]]></content>
   <tabTrigger>_.findKey</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

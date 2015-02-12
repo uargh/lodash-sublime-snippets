@@ -1,6 +1,8 @@
 <snippet>
   <content><![CDATA[
-_.remove(${1:array}${2:, [callback=1]}${3:, [thisArg]});
+_.remove(${1:array}, ${2:function(item${3:,key})\{
+
+\} }${4:,${5:[thisArg]}});
 ]]></content>
   <tabTrigger>_.remove</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
