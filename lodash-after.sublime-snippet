@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.after(${1:n}, ${2:func});
+_.after(${1:n}, ${2:func})
 ]]></content>
   <tabTrigger>_.after</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

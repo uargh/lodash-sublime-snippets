@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.once(${1:func});
+_.once(${1:func})
 ]]></content>
   <tabTrigger>_.once</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

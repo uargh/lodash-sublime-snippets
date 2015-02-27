@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.invert(${1:object});
+_.invert(${1:object})
 ]]></content>
   <tabTrigger>_.invert</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

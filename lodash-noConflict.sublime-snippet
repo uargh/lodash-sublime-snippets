@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.noConflict();
+_.noConflict()
 ]]></content>
   <tabTrigger>_.noConflict</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

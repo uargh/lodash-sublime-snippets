@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.isRegExp(${1:value});
+_.isRegExp(${1:value})
 ]]></content>
   <tabTrigger>_.isRegExp</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.memoize(${1:func}${2:, [resolver]}});
+_.memoize(${1:func}${2:, [resolver]}})
 ]]></content>
   <tabTrigger>_.memoize</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

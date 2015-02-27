@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.pairs(${1:object});
+_.pairs(${1:object})
 ]]></content>
   <tabTrigger>_.pairs</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

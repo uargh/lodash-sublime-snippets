@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.curry(${1:func}${2:, [arity=func.length]});
+_.curry(${1:func}${2:, [arity=func.length]})
 ]]></content>
   <tabTrigger>_.curry</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

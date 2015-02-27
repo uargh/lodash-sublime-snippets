@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.isUndefined(${1:value});
+_.isUndefined(${1:value})
 ]]></content>
   <tabTrigger>_.isUndefined</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.min(${1:collection}${2:, [callback=identity]}${3:, [thisArg]});
+_.min(${1:collection}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
   <tabTrigger>_.min</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

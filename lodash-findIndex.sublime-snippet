@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.findIndex(${1:array}${2:, [callback=identity]}${3:, [thisArg]});
+_.findIndex(${1:array}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
   <tabTrigger>_.findIndex</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

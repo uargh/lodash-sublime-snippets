@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.zip(${1:[array]});
+_.zip(${1:[array]})
 ]]></content>
   <tabTrigger>_.zip</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

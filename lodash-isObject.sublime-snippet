@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.isObject(${1:value});
+_.isObject(${1:value})
 ]]></content>
   <tabTrigger>_.isObject</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

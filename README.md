@@ -13,6 +13,10 @@ Install via package control, see: `https://sublime.wbond.net/` for more details.
 Changelog
 ---------
 
+### 0.0.3
+
+* Removed semicolon endings to make snippets more generic
+
 ### 0.0.2
 
 * Shortened descriptions of most snippets

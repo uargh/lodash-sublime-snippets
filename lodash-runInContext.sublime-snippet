@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.runInContext(${1:[context=root]});
+_.runInContext(${1:[context=root]})
 ]]></content>
   <tabTrigger>_.runInContext</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

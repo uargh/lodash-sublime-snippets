@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.uniqueId(${1:[prefix]});
+_.uniqueId(${1:[prefix]})
 ]]></content>
   <tabTrigger>_.uniqueId</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

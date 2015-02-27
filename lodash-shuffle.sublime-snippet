@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.shuffle(${1:collection});
+_.shuffle(${1:collection})
 ]]></content>
   <tabTrigger>_.shuffle</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

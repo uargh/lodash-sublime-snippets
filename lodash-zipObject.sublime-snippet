@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.zipObject(${1:keys}${2:, [values=[]]});
+_.zipObject(${1:keys}${2:, [values=[]]})
 ]]></content>
   <tabTrigger>_.zipObject</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->

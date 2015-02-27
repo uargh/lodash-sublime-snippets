@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-_.defaults(${1:object}${2:, [source]});
+_.defaults(${1:object}${2:, [source]})
 ]]></content>
   <tabTrigger>_.defaults</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
