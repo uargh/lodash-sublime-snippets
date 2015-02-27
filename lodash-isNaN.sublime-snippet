@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.isNaN(${1:value})
 ]]></content>
-  <tabTrigger>_.isNaN</tabTrigger>
+  <tabTrigger>_isNaN</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Checks if value is NaN.</description>
 </snippet>

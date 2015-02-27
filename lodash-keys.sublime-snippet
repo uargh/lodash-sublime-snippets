@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.keys(${1:object})
 ]]></content>
-  <tabTrigger>_.keys</tabTrigger>
+  <tabTrigger>_keys</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Creates an array composed of the own enumerable property names of an object.</description>
 </snippet>

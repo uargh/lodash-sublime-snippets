@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.isArray(${1:value})
 ]]></content>
-  <tabTrigger>_.isArray</tabTrigger>
+  <tabTrigger>_isArray</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Checks if value is an array.</description>
 </snippet>

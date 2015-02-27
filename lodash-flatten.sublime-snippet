@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.flatten(${1:array}${2:,[isShallow=false]}${3:,[callback=identity]}${4:,[thisArg]})
 ]]></content>
-  <tabTrigger>_.flatten</tabTrigger>
+  <tabTrigger>_flatten</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Flattens a nested array.</description>
 </snippet>

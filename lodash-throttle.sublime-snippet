@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.throttle(${1:func}, ${2:wait}${3:, [options]})
 ]]></content>
-  <tabTrigger>_.throttle</tabTrigger>
+  <tabTrigger>_throttle</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Creates a function that, when executed, will only call the func function at most once per every wait milliseconds.</description>
 </snippet>

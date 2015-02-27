@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.last(${1:array}${2:, [callback]}${3:, [thisArg]})
 ]]></content>
-  <tabTrigger>_.last</tabTrigger>
+  <tabTrigger>_last</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Gets the last element or last n elements of an array.</description>
 </snippet>

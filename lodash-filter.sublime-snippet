@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.filter(${1:collection}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
-  <tabTrigger>_.filter</tabTrigger>
+  <tabTrigger>_filter</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Iterates over elements of a collection, returning an array of all elements the callback returns truey for.</description>
 </snippet>

@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.transform(${1:collection}${2:, [callback=identity]}${3:, [accumulator]}${4:, [thisArg]})
 ]]></content>
-  <tabTrigger>_.transform</tabTrigger>
+  <tabTrigger>_transform</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Transforms object to a new accumulator object which is the result of running each of its elements through a callback.</description>
 </snippet>

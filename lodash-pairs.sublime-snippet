@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.pairs(${1:object})
 ]]></content>
-  <tabTrigger>_.pairs</tabTrigger>
+  <tabTrigger>_pairs</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Creates a two dimensional array of an object’s key-value pairs.</description>
 </snippet>

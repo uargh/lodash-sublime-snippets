@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.contains(${1:collection}, ${2:target}${3:, [fromIndex=0]})
 ]]></content>
-  <tabTrigger>_.contains</tabTrigger>
+  <tabTrigger>_contains</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Checks collection values for target.</description>
 </snippet>

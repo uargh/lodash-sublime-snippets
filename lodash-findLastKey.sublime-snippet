@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.findLastKey(${1:object}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
-  <tabTrigger>_.findLastKey</tabTrigger>
+  <tabTrigger>_findLastKey</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Returns the key of the first element that passes the callback check from right to left.</description>
 </snippet>

@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.isElement(${1:value})
 ]]></content>
-  <tabTrigger>_.isElement</tabTrigger>
+  <tabTrigger>_isElement</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Checks if value is a DOM element.</description>
 </snippet>

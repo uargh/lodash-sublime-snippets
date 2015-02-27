@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.assign(${1:object}${2:, [source]}${3:, [callback]}${4:, [thisArg]})
 ]]></content>
-  <tabTrigger>_.assign</tabTrigger>
+  <tabTrigger>_assign</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Assigns own properties of source to object.</description>
 </snippet>

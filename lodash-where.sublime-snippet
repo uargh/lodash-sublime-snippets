@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.where(${1:collection}, ${2:properties})
 ]]></content>
-  <tabTrigger>_.where</tabTrigger>
+  <tabTrigger>_where</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Performs deep comparison of each element collection to properties object: Returns array of elements with equivalent values.</description>
 </snippet>

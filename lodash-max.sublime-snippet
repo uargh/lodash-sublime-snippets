@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.max(${1:collection}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
-  <tabTrigger>_.max</tabTrigger>
+  <tabTrigger>_max</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Retrieves the maximum value of a collection.</description>
 </snippet>

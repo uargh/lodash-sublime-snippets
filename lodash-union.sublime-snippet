@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.union(${1:[array]})
 ]]></content>
-  <tabTrigger>_.union</tabTrigger>
+  <tabTrigger>_union</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Creates an array of unique values.</description>
 </snippet>

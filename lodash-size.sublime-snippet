@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.size(${1:collection})
 ]]></content>
-  <tabTrigger>_.size</tabTrigger>
+  <tabTrigger>_size</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Gets the size of the collection by returning collection.length.</description>
 </snippet>

@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.after(${1:n}, ${2:func})
 ]]></content>
-  <tabTrigger>_.after</tabTrigger>
+  <tabTrigger>_after</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Creates function that executes func after being called n times.</description>
 </snippet>

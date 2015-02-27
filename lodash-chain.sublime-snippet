@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.chain(${1:value})
 ]]></content>
-  <tabTrigger>_.chain</tabTrigger>
+  <tabTrigger>_chain</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Creates a lodash object which wraps the given value.</description>
 </snippet>

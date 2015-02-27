@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.findLastIndex(${1:array}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
-  <tabTrigger>_.findLastIndex</tabTrigger>
+  <tabTrigger>_findLastIndex</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Returns the index of the first element that passes the callback check, right to left.</description>
 </snippet>

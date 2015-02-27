@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.isRegExp(${1:value})
 ]]></content>
-  <tabTrigger>_.isRegExp</tabTrigger>
+  <tabTrigger>_isRegExp</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Checks if value is a regular expression.</description>
 </snippet>

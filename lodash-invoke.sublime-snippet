@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.invoke(${1:collection}, ${2:methodName}${3:, [arg]})
 ]]></content>
-  <tabTrigger>_.invoke</tabTrigger>
+  <tabTrigger>_invoke</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Invokes method named methodName on each element in collection. Returns array of results.</description>
 </snippet>

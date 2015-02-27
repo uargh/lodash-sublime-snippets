@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.sortBy(${1:collection}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
-  <tabTrigger>_.sortBy</tabTrigger>
+  <tabTrigger>_sortBy</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Creates an array of elements, sorted in ascending order by the results of running each element in a collection through the callback.</description>
 </snippet>

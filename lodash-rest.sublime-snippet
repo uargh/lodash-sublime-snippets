@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.rest(${1:array}${2:, [callback=1]}${3:, [thisArg]})
 ]]></content>
-  <tabTrigger>_.rest</tabTrigger>
+  <tabTrigger>_rest</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Gets all but the first element or first n elements of an array.</description>
 </snippet>

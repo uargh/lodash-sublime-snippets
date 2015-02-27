@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.intersection(${1:[array]})
 ]]></content>
-  <tabTrigger>_.intersection</tabTrigger>
+  <tabTrigger>_intersection</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Creates an array of unique values present in all provided arrays.</description>
 </snippet>

@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.invert(${1:object})
 ]]></content>
-  <tabTrigger>_.invert</tabTrigger>
+  <tabTrigger>_invert</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>Creates an object composed of the inverted keys and values of the given object.</description>
 </snippet>

@@ -2,7 +2,7 @@
   <content><![CDATA[
 _.identity(${1:value})
 ]]></content>
-  <tabTrigger>_.identity</tabTrigger>
+  <tabTrigger>_identity</tabTrigger>
   <!-- <scope>source.JavaScript</scope> -->
   <description>This method returns the first argument provided to it.</description>
 </snippet>
