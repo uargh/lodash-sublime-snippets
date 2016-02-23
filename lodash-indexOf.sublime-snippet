@@ -3,6 +3,6 @@
 _.indexOf(${1:array}, ${2:value}${3:,[fromIndex=0]})
 ]]></content>
   <tabTrigger>_indexOf</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Gets the index at which the first occurrence of value is found.</description>
 </snippet>

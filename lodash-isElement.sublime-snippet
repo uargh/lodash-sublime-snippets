@@ -3,6 +3,6 @@
 _.isElement(${1:value})
 ]]></content>
   <tabTrigger>_isElement</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Checks if value is a DOM element.</description>
 </snippet>

@@ -3,6 +3,6 @@
 _.isRegExp(${1:value})
 ]]></content>
   <tabTrigger>_isRegExp</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Checks if value is a regular expression.</description>
 </snippet>

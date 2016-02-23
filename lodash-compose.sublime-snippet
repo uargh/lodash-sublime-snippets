@@ -3,6 +3,6 @@
 _.compose(${1:[func]})
 ]]></content>
   <tabTrigger>_compose</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Creates a function that is the composition of the provided functions, where each function consumes the return value of the function that follows.</description>
 </snippet>

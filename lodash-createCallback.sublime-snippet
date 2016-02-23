@@ -3,6 +3,6 @@
 _.createCallback(${1:[func=identity]}${2:, [thisArg]}${3:, [argCount]})
 ]]></content>
   <tabTrigger>_createCallback</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Produces a callback bound to an optional thisArg.</description>
 </snippet>

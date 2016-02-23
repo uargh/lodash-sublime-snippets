@@ -3,6 +3,6 @@
 _.indexBy(${1:collection}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
   <tabTrigger>_indexBy</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Creates an object composed of keys generated from the results of running each element of the collection through the given callback.</description>
 </snippet>

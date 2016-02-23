@@ -3,6 +3,6 @@
 _.difference(${1:array}, ${2:array})
 ]]></content>
   <tabTrigger>_difference</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Creates array excluding all values of provided arrays.</description>
 </snippet>

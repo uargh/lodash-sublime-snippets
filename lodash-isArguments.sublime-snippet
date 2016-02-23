@@ -3,6 +3,6 @@
 _.isArguments(${1:value})
 ]]></content>
   <tabTrigger>_isArguments</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Checks if value is an arguments object.</description>
 </snippet>

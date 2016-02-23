@@ -3,6 +3,6 @@
 _.isNaN(${1:value})
 ]]></content>
   <tabTrigger>_isNaN</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Checks if value is NaN.</description>
 </snippet>

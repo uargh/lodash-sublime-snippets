@@ -3,6 +3,6 @@
 _.escape(${1:string})
 ]]></content>
   <tabTrigger>_escape</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Converts  &amp;, &lt;, &gt;, &quote;, and ' to their corresponding HTML entities.</description>
 </snippet>

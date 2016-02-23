@@ -3,6 +3,6 @@
 _.where(${1:collection}, ${2:properties})
 ]]></content>
   <tabTrigger>_where</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Performs deep comparison of each element collection to properties object: Returns array of elements with equivalent values.</description>
 </snippet>

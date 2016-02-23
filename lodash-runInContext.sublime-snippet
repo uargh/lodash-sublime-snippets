@@ -3,6 +3,6 @@
 _.runInContext(${1:[context=root]})
 ]]></content>
   <tabTrigger>_runInContext</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Create a new lodash function using the given context object.</description>
 </snippet>

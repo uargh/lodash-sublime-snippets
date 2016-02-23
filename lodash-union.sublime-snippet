@@ -3,6 +3,6 @@
 _.union(${1:[array]})
 ]]></content>
   <tabTrigger>_union</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Creates an array of unique values.</description>
 </snippet>

@@ -3,6 +3,6 @@
 _.invoke(${1:collection}, ${2:methodName}${3:, [arg]})
 ]]></content>
   <tabTrigger>_invoke</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Invokes method named methodName on each element in collection. Returns array of results.</description>
 </snippet>

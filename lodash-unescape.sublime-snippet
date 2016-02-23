@@ -3,6 +3,6 @@
 _.unescape(${1:string})
 ]]></content>
   <tabTrigger>_unescape</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Converts &amp;, &lt;, &gt;, &quot;, and &#39; to characters.</description>
 </snippet>

@@ -3,6 +3,6 @@
 _.uniqueId(${1:[prefix]})
 ]]></content>
   <tabTrigger>_uniqueId</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Generates a unique ID.</description>
 </snippet>

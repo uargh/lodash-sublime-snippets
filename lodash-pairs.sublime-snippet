@@ -3,6 +3,6 @@
 _.pairs(${1:object})
 ]]></content>
   <tabTrigger>_pairs</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Creates a two dimensional array of an object’s key-value pairs.</description>
 </snippet>

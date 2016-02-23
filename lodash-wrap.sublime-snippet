@@ -3,6 +3,6 @@
 _.wrap(${1:value}, ${2:wrapper})
 ]]></content>
   <tabTrigger>_wrap</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Creates a function that provides value to the wrapper function as its first argument.</description>
 </snippet>

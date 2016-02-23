@@ -3,6 +3,6 @@
 _.forEach(${1:collection}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
   <tabTrigger>_forEach</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Iterates over elements of a collection, executing the callback for each element.</description>
 </snippet>

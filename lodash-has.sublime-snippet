@@ -3,6 +3,6 @@
 _.has(${1:object}, ${2:property})
 ]]></content>
   <tabTrigger>_has</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Checks if direct property of object.</description>
 </snippet>

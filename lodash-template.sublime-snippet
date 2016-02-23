@@ -3,6 +3,6 @@
 _.template(${1:text}, ${2:data}${3:, [options]}${4:, [options.escape]}${5:, [options.evaluate]}${6:, [options.imports]}${7:, [options.interpolate]}${8:, [sourceURL]}${9:, [variable]})
 ]]></content>
   <tabTrigger>_template</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>A micro-templating method that handles arbitrary delimiters, preserves whitespace, and correctly escapes quotes within interpolated code.</description>
 </snippet>

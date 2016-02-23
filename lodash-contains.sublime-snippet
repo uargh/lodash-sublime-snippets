@@ -3,6 +3,6 @@
 _.contains(${1:collection}, ${2:target}${3:, [fromIndex=0]})
 ]]></content>
   <tabTrigger>_contains</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Checks collection values for target.</description>
 </snippet>

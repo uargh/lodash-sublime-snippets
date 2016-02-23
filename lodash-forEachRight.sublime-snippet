@@ -3,6 +3,6 @@
 _.forEachRight(${1:collection}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
   <tabTrigger>_forEachRight</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Iterates over elements of a collection from right to left, executing the callback for each element.</description>
 </snippet>

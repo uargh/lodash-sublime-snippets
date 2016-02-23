@@ -3,6 +3,6 @@
 _.groupBy(${1:collection}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
   <tabTrigger>_groupBy</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Creates an object composed of keys generated from the results of running each element of a collection through the callback.</description>
 </snippet>

@@ -3,6 +3,6 @@
 _.isFinite(${1:value})
 ]]></content>
   <tabTrigger>_isFinite</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Checks if value is, or can be coerced to, a finite number.</description>
 </snippet>
