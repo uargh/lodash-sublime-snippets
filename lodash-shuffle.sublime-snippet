@@ -3,6 +3,6 @@
 _.shuffle(${1:collection})
 ]]></content>
   <tabTrigger>_shuffle</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Creates an array of shuffled values, using a version of the Fisher-Yates shuffle.</description>
 </snippet>

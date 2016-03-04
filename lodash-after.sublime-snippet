@@ -3,6 +3,6 @@
 _.after(${1:n}, ${2:func})
 ]]></content>
   <tabTrigger>_after</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Creates function that executes func after being called n times.</description>
 </snippet>

@@ -3,6 +3,6 @@
 _.range(${1:[start=0]}${2:, end}${3:, [step=1]})
 ]]></content>
   <tabTrigger>_range</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Creates an array of numbers (positive and/or negative) progressing from start up to but not including end.</description>
 </snippet>

@@ -3,6 +3,6 @@
 _.isObject(${1:value})
 ]]></content>
   <tabTrigger>_isObject</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Checks if value is the language type of Object.</description>
 </snippet>

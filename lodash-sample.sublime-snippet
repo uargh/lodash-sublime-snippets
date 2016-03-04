@@ -3,6 +3,6 @@
 _.sample(${1:collection}${2:, [n]})
 ]]></content>
   <tabTrigger>_sample</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Retrieves a random element or n random elements from a collection.</description>
 </snippet>

@@ -3,6 +3,6 @@
 _.size(${1:collection})
 ]]></content>
   <tabTrigger>_size</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Gets the size of the collection by returning collection.length.</description>
 </snippet>

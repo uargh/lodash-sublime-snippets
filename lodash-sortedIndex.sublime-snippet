@@ -3,6 +3,6 @@
 _.sortedIndex(${1:array}, ${2:value}${3:, [callback=identity]}${4:, [thisArg]})
 ]]></content>
   <tabTrigger>_sortedIndex</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Uses a binary search to determine the smallest index at which a value should be inserted into a given sorted array in order to maintain the sort order of the array.</description>
 </snippet>

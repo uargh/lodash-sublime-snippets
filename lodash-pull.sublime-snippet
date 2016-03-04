@@ -3,6 +3,6 @@
 _.pull(${1:array}${2:, [value]})
 ]]></content>
   <tabTrigger>_pull</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Removes all provided values from the given array.</description>
 </snippet>

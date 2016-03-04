@@ -3,6 +3,6 @@
 _.at(${1:collection}${2:, [index]})
 ]]></content>
   <tabTrigger>_at</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Creates an array of elements from the specified indexes, or keys, of the collection.</description>
 </snippet>

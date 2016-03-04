@@ -3,6 +3,6 @@
 _.compact(${1:array})
 ]]></content>
   <tabTrigger>_compact</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Creates an array with all falsey values removed.</description>
 </snippet>

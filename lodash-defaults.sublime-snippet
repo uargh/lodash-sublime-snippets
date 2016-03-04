@@ -3,6 +3,6 @@
 _.defaults(${1:object}${2:, [source]})
 ]]></content>
   <tabTrigger>_defaults</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Assigns own enumerable properties of source object(s) to the destination object for all destination properties that resolve to undefined.</description>
 </snippet>

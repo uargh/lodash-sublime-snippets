@@ -3,6 +3,6 @@
 _.defer(${1:func}${2:, [arg]})
 ]]></content>
   <tabTrigger>_defer</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Defers executing the func function until the current call stack has cleared.</description>
 </snippet>

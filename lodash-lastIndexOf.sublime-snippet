@@ -3,6 +3,6 @@
 _.lastIndexOf(${1:array}, ${2:value}${3:, [fromIndex=array.length-1]})
 ]]></content>
   <tabTrigger>_lastIndexOf</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Gets the index at which the last occurrence of value is found.</description>
 </snippet>

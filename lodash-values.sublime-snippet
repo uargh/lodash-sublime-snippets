@@ -3,6 +3,6 @@
 _.values(${1:object})
 ]]></content>
   <tabTrigger>_values</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Creates an array composed of the own enumerable property values of object.</description>
 </snippet>

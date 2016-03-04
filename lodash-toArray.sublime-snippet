@@ -3,6 +3,6 @@
 _.toArray(${1:collection})
 ]]></content>
   <tabTrigger>_toArray</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Converts the collection to an array.</description>
 </snippet>

@@ -3,6 +3,6 @@
 _.pluck(${1:collection}, ${2:property})
 ]]></content>
   <tabTrigger>_pluck</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Retrieves the value of a specified property from all elements in the collection.</description>
 </snippet>

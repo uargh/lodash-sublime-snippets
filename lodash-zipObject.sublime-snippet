@@ -3,6 +3,6 @@
 _.zipObject(${1:keys}${2:, [values=[]]})
 ]]></content>
   <tabTrigger>_zipObject</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Creates an object composed from arrays of keys and values.</description>
 </snippet>

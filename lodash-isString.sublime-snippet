@@ -3,6 +3,6 @@
 _.isString(${1:value})
 ]]></content>
   <tabTrigger>_isString</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Checks if value is a string.</description>
 </snippet>

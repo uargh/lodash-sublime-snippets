@@ -3,6 +3,6 @@
 _.sortBy(${1:collection}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
   <tabTrigger>_sortBy</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Creates an array of elements, sorted in ascending order by the results of running each element in a collection through the callback.</description>
 </snippet>

@@ -3,6 +3,6 @@
 _.forIn(${1:object}${2:, [callback=identity]}${3:, [thisArg]})
 ]]></content>
   <tabTrigger>_forIn</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Iterates over own and inherited enumerable properties of an object, executing the callback for each property.</description>
 </snippet>

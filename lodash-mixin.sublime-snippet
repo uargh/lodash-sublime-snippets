@@ -3,6 +3,6 @@
 _.mixin(${1:object}, ${2:object})
 ]]></content>
   <tabTrigger>_mixin</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Adds function properties of a source object to the lodash function and chainable wrapper.</description>
 </snippet>

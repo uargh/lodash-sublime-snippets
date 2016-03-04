@@ -3,6 +3,6 @@
 _.invert(${1:object})
 ]]></content>
   <tabTrigger>_invert</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Creates an object composed of the inverted keys and values of the given object.</description>
 </snippet>

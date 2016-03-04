@@ -3,6 +3,6 @@
 _.keys(${1:object})
 ]]></content>
   <tabTrigger>_keys</tabTrigger>
-  <!-- <scope>source.JavaScript</scope> -->
+  <scope>source.js.embedded.html, source.js</scope>
   <description>Creates an array composed of the own enumerable property names of an object.</description>
 </snippet>
